@@ -1,0 +1,19 @@
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.fig~
+*.mdl~
+*.slx~
+*.bak
+.DS_Store
+
+# Simulink cache
+slprj/
+sfprj/
+*.autosave
+
+# MATLAB Crash Dumps
+matlab_crash_dump.*
+javaclasspath.txt
+pathdef.m
